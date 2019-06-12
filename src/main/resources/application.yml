@@ -1,0 +1,9 @@
+logging:
+  file: F://spring/log/email.log
+  level.wcfb: error
+spring:
+  mail:
+    host: smtp.qq.com
+    username: 599466636@qq.com
+    password: ongtpjatgiribcff
+    default-encoding: UTF-8
